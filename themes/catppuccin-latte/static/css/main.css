@@ -1120,6 +1120,11 @@ video {
   margin-bottom: 0.25rem;
 }
 
+.mx-2 {
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+}
+
 .my-auto {
   margin-top: auto;
   margin-bottom: auto;
