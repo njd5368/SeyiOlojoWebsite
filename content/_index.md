@@ -1,3 +1,7 @@
+---
+title: "About"
+---
+
 I'm a PhD student (she/her) in the UC Berkeley [School of Information](https://www.ischool.berkeley.edu/) where I am advised by
 [Dr. Jenna Burrell](https://sites.ischool.berkeley.edu/jburrell/) and [Dr. Niloufar Salehi](http://niloufar.org/). I'm broadly
 interested in stratification within sociotechnical systems and in investigating the role of alternative epistemological paradigms 
