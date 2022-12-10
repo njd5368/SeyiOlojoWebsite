@@ -9,7 +9,7 @@ https://gohugo.io/installation/
 ## Creating New Posts
 
 The project is structured such that all new posts are created in the `content/` directory.
-(There are a few examples such as `content/publication/2021/the-distressing-ads-that-persist.md')
+(There are a few examples such as `content/publication/2021/the-distressing-ads-that-persist.md`)
 To create a new publication post, run the following command *in the root directory* of the project
 changing the year and name.
 
