@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .nav-menu-toggle:checked ~ .nav-menu-content {
+        max-height: 100%;
+      }
+      .nav-menu-up {
+        display: inline;
+      }
+      .nav-menu-toggle:checked ~ .nav-menu-up {
+        display: none;
+      }
+      .nav-menu-down {
+        display: none;
+      }
+      .nav-menu-toggle:checked ~ .nav-menu-down {
+        display: inline;
+      }
+}

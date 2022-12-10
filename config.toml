@@ -1,0 +1,4 @@
+baseURL = 'https://seyiolojo.com/'
+languageCode = 'en-us'
+title = 'Seyi Olojo'
+theme = 'catppuccin-latte'
