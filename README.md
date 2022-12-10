@@ -15,6 +15,8 @@ changing the year and name.
 
 `hugo new publication/2022/name.md`
 
+The year is added to avoid conflicting files.
+
 This will create a new markdown file with yaml at the top. 
 
 * The title is the title of the post. (This can be different from the file name.)
